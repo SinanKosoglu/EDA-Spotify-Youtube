@@ -6,7 +6,7 @@ The link is: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtu
 
 A version of this eda as been uploaded on kaggle.com too.
 
-**Dataset**
+**DATASET**
 
 https://www.kaggle.com/datasets/sinankosoglu/spotify-and-youtube-dataset
 
