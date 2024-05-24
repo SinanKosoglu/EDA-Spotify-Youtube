@@ -6,11 +6,11 @@ The link is: https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtu
 
 A version of this eda as been uploaded on kaggle.com too.
 
-###Dataset
+###Dataset###
 
 https://www.kaggle.com/datasets/sinankosoglu/spotify-and-youtube-dataset
 
-##Best Preview is from Kaggle website (px. graphs can be displayed from here)
+##Best Preview is from Kaggle website (px. graphs can be displayed from here)###
 
 https://www.kaggle.com/code/sinankosoglu/spotify-and-youtube-eda
 
